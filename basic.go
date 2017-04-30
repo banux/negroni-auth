@@ -11,7 +11,7 @@ import (
 	"github.com/urfave/negroni"
 	"golang.org/x/crypto/bcrypt"
 
-	"github.com/nabeken/negroni-auth/datastore"
+	"github.com/banux/negroni-auth/datastore"
 )
 
 const (
